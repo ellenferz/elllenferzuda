@@ -6,5 +6,5 @@
 <p>👉Currentely I am studying programming</p>
 <p>👉Now I am learning about GitHub and all the magic inside it</p>
 
-![Snake animation](https://github.com/ellenferz/ellenferz/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/ellenferz/ellenferz/blob/output/github-contribution-grid-snake.svg)
 
